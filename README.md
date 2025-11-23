@@ -30,7 +30,6 @@ Backend ingestion layer & automasi cron untuk data operasional.
 ---
 
 ## 📈 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuralims&show_icons=true&hide_title=true&hide_border=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuralims&layout=compact&hide_border=true&theme=graywhite)
 
 ---
